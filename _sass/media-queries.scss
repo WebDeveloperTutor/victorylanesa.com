@@ -35,6 +35,14 @@
     content: "768px";
     color: orange;
   } 
+  
+  // header-bottom.html
+  .multi-button-layer {
+    flex-direction: row;
+  }
+  .multi-button-layer > a:not(:last-child) {
+    margin-right: 10px;
+  }
 }
 
 @media screen and (min-width: 992px) {

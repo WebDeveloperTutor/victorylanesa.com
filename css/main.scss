@@ -3,7 +3,23 @@
 
 /* CSS Styles are defined below */
 
+// header-top.html
+.template-header .template-header-top .template-header-top-logo {
+    margin-top: 10px;
+}
+.template-logo {
+    max-width: 150px;
+}
 
+// header-bottom.html
+.multi-button-layer {
+    /*border: 1px solid red;*/
+    display: flex!important;
+    flex-direction: column;
+}
+.multi-button-layer > a {
+    margin-top: 10px;
+}
 
 /* Media Queries */
 @import "media-queries";
