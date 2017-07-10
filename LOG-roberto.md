@@ -1,4 +1,5 @@
 # Roberto's Log
 
 #### July 8, 2017
-- Created log file and submitted first pull request
+- Added default layout and change index page title.
+- Created log file and submitted first pull request.
